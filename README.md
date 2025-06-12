@@ -94,4 +94,4 @@
 
 <h2>⚡ Fun Fact</h2>
 
-<blockquote><i>I love building things that challenge me and exploring cutting-edge technologies!</i></blockquote>
+<blockquote><i>When I’m not coding, you’ll probably find me sketching — check out my art on <a href="https://in.pinterest.com/rksrakesh2602/" target="_blank"><strong>Pinterest</strong></a> 🎨</i></blockquote>
