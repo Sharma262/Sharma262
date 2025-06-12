@@ -1,8 +1,4 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0077B5">Rakesh Sharma</span></h1>
-<h3 align="center">A passionate software engineer from India 🇮🇳</h3>
-
-<hr/>
-
 <h2>🚀 About Me</h2>
 
 <ul>
