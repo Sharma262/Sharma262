@@ -64,6 +64,14 @@
     </td>
   </tr>
   <tr>
+    <td><strong>Blockchain</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Smart%20Contracts-8E2DE2?style=flat&logo=ethereum&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ethers.js-5C6BC0?style=flat&logo=ethereum&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
